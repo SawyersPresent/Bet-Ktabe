@@ -8,103 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3be189c2f554f36f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Methodology/12 Malware/Boaz/Getting close.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Getting close"
-            }
-          },
-          {
-            "id": "4723c4860b4dcf9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 Pro labs/Offshore/10.10.110.123.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.10.110.123"
-            }
-          },
-          {
-            "id": "0920d7e175aaa428",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "99 images/Theory-20251225190422205.webp"
-              },
-              "icon": "lucide-image",
-              "title": "Theory-20251225190422205"
-            }
-          },
-          {
-            "id": "21a1c8fc0200446d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 Pro labs/Offshore/10.10.110.123.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.10.110.123"
-            }
-          },
-          {
-            "id": "d0beb284d0d33e85",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "CyberSex/.obsidian/community-plugins.json",
-                "bFile": "CyberSex/.obsidian/community-plugins.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json  (Working Tree)"
-            }
-          },
-          {
             "id": "e20f26048428356f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Methodology/3 File transfer/File transfers.md",
+                "file": "3 Courses/HTB/CAPE/12 Trust Attacks/1 Intra Forest Attacks/1 ADCS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File transfers"
-            }
-          },
-          {
-            "id": "fecdced18a2fcebd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Courses/HTB/CPTS/25 Linux/1 Information Gathering/1 Linux Services & Internal Enumeration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 Linux Services & Internal Enumeration"
+              "title": "1 ADCS"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "boaz",
+                "query": "\"certipy auth\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 321.5
   },
   "right": {
     "id": "42d54e3e01e344ad",
@@ -211,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -223,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 Boxes/vulnlab/sendai/sendai.md",
+                "file": "3 Courses/HTB/CAPE/12 Trust Attacks/1 Intra Forest Attacks/1 ADCS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of sendai"
+              "title": "Outline of 1 ADCS"
             }
           },
           {
@@ -273,39 +192,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0beb284d0d33e85",
+  "active": "e20f26048428356f",
   "lastOpenFiles": [
-    "4 Methodology/6 active directory/4 Trust Attacks/Cross Domain/2 Abusing ADCS.md",
-    "4 Methodology/6 active directory/4 Trust Attacks/Cross Domain/1 Unconstrained Delegation.md",
-    "4 Methodology/6 active directory/4 Trust Attacks/Cross Domain/0 Enumeration.md",
+    "3 Courses/HTB/CAPE/12 Trust Attacks/1 Intra Forest Attacks/0 Unconstrained Delegation.md",
+    "3 Courses/HTB/CAPE/12 Trust Attacks/1 Intra Forest Attacks/1 ADCS.md",
+    "3 Courses/HTB/CAPE/11 ADCS/0 Introduction/1 Introduction to ADCS Misconfigurations.md",
+    "3 Courses/HTB/CAPE/11 ADCS/0 Introduction/2 ADCS Enumeration.md",
+    "4 Methodology/6 active directory/4 Trust Attacks/Intra Forest/3 Abusing ADCS.md",
+    "7 Boxes/HTB/Machines/Fluffy/Fluffy.md",
+    "3 Abusing ADCS-20260127232541306.webp",
+    "4 Methodology/6 active directory/4 Trust Attacks/Intra Forest/2 Unconstrained Delegation.md",
+    "4 Methodology/6 active directory/4 Trust Attacks/Intra Forest/1 Enumeration.md",
+    "4 Methodology/80 Dev/0 Ideas.md",
+    "3 Abusing ADCS-20260127201405162.webp",
+    "4 Methodology/6 active directory/4 Trust Attacks/Intra Forest/0 Theory.md",
+    "4 Methodology/6 active directory/4 Trust Attacks/Cross Forest Attacks/0 Theory.md",
+    "4 Methodology/6 active directory/4 Trust Attacks/Cross Forest Attacks/Cheatsheet.md",
+    "4 Methodology/6 active directory/4 Trust Attacks/Cross Forest Attacks/1 Enumeration.md",
+    "4 Methodology/6 active directory/4 Trust Attacks/Cross Forest Attacks/Untitled.md",
+    "3 Courses/HTB/CAPE/12 Trust Attacks/1 Intra Forest Attacks",
+    "3 Courses/HTB/CAPE/12 Trust Attacks/0 Introductrion",
+    "4 Methodology/3 File transfer/File transfers.md",
+    "3 Courses/HTB/CPTS/25 Linux/1 Information Gathering/1 Linux Services & Internal Enumeration.md",
+    "4 Methodology/12 Malware/Boaz/Getting close.md",
+    "6 Pro labs/Offshore/10.10.110.123.md",
     "4 Methodology/6 active directory/2 Kerberos attacks/0 Delegations/1 KUD (Unconstrained).md",
     "4 Methodology/6 active directory/2 Kerberos attacks/0 Delegations/0 Delegations.md",
     "99 images/1 Unconstrained Delegation-20260127033516728.webp",
-    "4 Methodology/6 active directory/4 Trust Attacks/Cross Forest/1 Enumeration.md",
     "4 Methodology/6 active directory/4 Trust Attacks/Cross Domain/0 Enumeration",
-    "4 Methodology/6 active directory/4 Trust Attacks/Cross Forest/Untitled.md",
-    "4 Methodology/6 active directory/4 Trust Attacks/Cross Forest/Cheatsheet.md",
-    "4 Methodology/6 active directory/4 Trust Attacks/Cross Forest/0 Theory.md",
     "4 Methodology/12 Malware/Concepts/Callback Gadgets.md",
     "4 Methodology/12 Malware/Rust codes/0 Rust.md",
-    "4 Methodology/12 Malware/Boaz/Getting close.md",
     "99 images/0 Theory-20260126041647736.webp",
-    "6 Pro labs/Offshore/10.10.110.123.md",
     "99 images/10.10.110.123-20260125035411240.webp",
     "99 images/Theory-20251225190422205.webp",
-    "4 Methodology/3 File transfer/File transfers.md",
-    "3 Courses/HTB/CPTS/25 Linux/1 Information Gathering/1 Linux Services & Internal Enumeration.md",
     "3 Courses/HTB/CPTS/7 File transfers/0 Introduction/2 Linux File transfer.md",
     "4 Methodology/4 linux/0 Shells & Misc.md",
     "4 Methodology/4 linux/1 Enumeration.md",
     "6 Pro labs/Offshore/172.16.1.30.md",
-    "6 Pro labs/Offshore/172.16.1.101.md",
-    "6 Pro labs/Offshore/172.16.1.36.md",
-    "6 Pro labs/Offshore/172.16.1.26.md",
-    "6 Pro labs/Offshore/172.16.1.24.md",
-    "6 Pro labs/Offshore/172.16.1.23.md",
-    "6 Pro labs/Offshore/172.16.1.22.md",
-    "6 Pro labs/Offshore/172.16.1.15.md",
     "6 Pro labs/Offshore/Untitled.canvas",
     "6 Pro labs/Offshore",
     "6 Pro labs",
@@ -314,8 +237,6 @@
     "3 Courses/HTB/CPTS/22 Command Injection",
     "88 Work/JOSA/MADU",
     "88 Work/wo-soom/Work",
-    "4 Methodology/6 active directory/1 DACL abuse/Untitled",
-    "4 Methodology/6 active directory/0 Theory",
     "3 Courses/ZPS/CRTO/Untitled.canvas",
     "Scrap/75 Cyber rnage/1 range/network.canvas",
     "5 Adventures/Unity/Images/Blog v2 C++-20251217231713966.webp",
@@ -323,8 +244,6 @@
     "5 Adventures/Unity/Images/Blog v2 C++-20251217230638548.webp",
     "88 Work/0 Async Security/W200 Exam attempt/Untitled.canvas",
     "88 Work/Tasks-20251129035742634.webp",
-    "Reflective DLL injection-20251208230834265.webp",
-    "99 images/fries-20251128220616049.webp",
     "3 Courses/CRTO/Untitled.canvas",
     "Scrap/Work/Dirty cow script/Untitled.canvas",
     "Scrap/75 Cyber rnage/Untitled.canvas",
