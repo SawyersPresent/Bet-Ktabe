@@ -1,0 +1,5 @@
+
+
+
+
+literally just use `exiftool`

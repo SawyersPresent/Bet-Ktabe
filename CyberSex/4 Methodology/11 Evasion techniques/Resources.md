@@ -1,0 +1,3 @@
+
+https://xbz0n.sh/blog/living-off-the-land-windows
+

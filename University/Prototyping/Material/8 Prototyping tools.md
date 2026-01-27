@@ -1,0 +1,60 @@
+
+
+what to look for in  at prototyping tool
+
+- ease of use
+	- Simple control simplify prototyping for everyone and speed up the workflow process
+- Functionality
+	- Depending on your project requirements
+- Compatibility
+	- Compatibility with other design tools like sketch, figma, adobe
+- Collaboration features
+- cost
+- device preview
+- support and documentation
+- Some examples
+	- Adobe XD
+		- advantages
+			- has all types of artboards
+			- simpel clean interface
+		- disadvantages
+			- Expensive
+			- no CSS support
+	- Figma
+		- advantages
+			- Real time collaboration
+			- Provides a free plan
+			- Quick and easy file sharing
+			- can deal with css
+		- disadvantages
+			- You need to be online to use it
+			- Must be aware of who did the last edit
+			- expensive
+	- Sketch
+		- Runs on OS X
+		- advantages
+			- Allows editing and processing images
+		- disadvantages
+			- Costs 99$ for full version
+	- Protopie
+		- advantages
+		- disadvantages
+	- Justinmind
+		- advantages
+		- disadvantages
+	- Balsamiq
+		- advantages
+			- Easy to use tool
+			- works perfectly for wireframes and mockups
+		- disadvantages
+- Benefits of prototyping tools
+	- Provides functionality and interactions
+		- Static high-fidelity mockup and wireframe are unable to convey animation. But a prototyping with interaction can do it pretty well.
+	- make actual communication with your boss, stakeholders
+		- The communication is necessary, the more they understand your design, the bigger the chance you can buy them in.
+	- Detect errors earlier and save time and money
+		- Trust me, any mistakes cost you less in prototyping stage than to be found in the later development stage.
+	- enhance collaboration within your team members internal
+		- It can improve efficiency largely
+	- involve user feedback and help to do multiple-test 
+		- It’s a key factor to iterate and update.

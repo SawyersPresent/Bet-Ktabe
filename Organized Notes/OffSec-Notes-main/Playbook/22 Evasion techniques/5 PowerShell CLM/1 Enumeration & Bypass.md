@@ -1,0 +1,25 @@
+
+- [https://github.com/calebstewart/bypass-clm](https://github.com/calebstewart/bypass-clm)
+
+
+## Recon
+
+Check PowerShell language mode:
+
+```
+PS > $ExecutionContext.SessionState.LanguageMode
+```
+
+In-place functions:
+
+```
+PS > whoami
+The term 'whoami.exe' is not recognized as the name of cmdlet...
+PS > &{ whoami }
+megacorp\snovvcrash
+```
+
+
+Tools
+- [https://github.com/p3nt4/PowerShdll](https://github.com/p3nt4/PowerShdll)
+- [https://github.com/iomoath/PowerShx](https://github.com/iomoath/PowerShx)

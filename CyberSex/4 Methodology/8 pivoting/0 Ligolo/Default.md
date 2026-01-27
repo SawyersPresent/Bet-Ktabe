@@ -1,0 +1,16 @@
+
+
+Using ligolo...
+
+```
+sudo ip tuntap add user kali mode tun ligolo
+sudo ip link set ligolo up
+```
+
+
+```
+
+```
+
+
+

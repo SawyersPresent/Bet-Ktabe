@@ -1,0 +1,63 @@
+
+- Definition
+	- Its an approach used by companies to better understand and predict consumer actions
+	- behavioral modeling uses available consumer and business spending data to estimate future behavior in specific circumstances
+- What is it about
+	- to capture psychology of decision making to provide a better simulation of how consumers make their decisions
+	- used by companies to hone their value propositions or target marketing based on outputs of the model
+- Why behavior modelling
+	- Understanding the target audience and delivering relevant content to them is one of the strategic priorities of any business operation
+	- User modeling uses descriptive algorithms to find patterns and group them to offer suggestions regarding the content for a specific audience
+- Example
+	- Credit card company that examines your purchase history and where you purchase things from to estimate future purchase behavior
+- Predictive customer behavior modeling
+	- Segment customers into small groups
+	- Tracking customers and how they move among different segments over time
+	- Accurately predicting the future behaviours of customers (convert, churn, spend more, spend less)
+- Technique
+	- Churn
+		- when a customer decides to stop being a customer for your business
+	- Conversion
+		- its a user action that you count because you consider it important, if a customer converts then it completes a goal you set
+		- a example of this would be signing up for the email list
+	- Reactivation
+		- Is when a customer begins engaging with your brand again after being inactive. It is important to analyze why customers re activate. understanding this we can use it to reactivate more customers
+	- Future value
+		- is a prediction of the future revenues expected from a customer during a particular time period
+- User modeling approaches
+	- Relevance feedback
+		- You can find out what people are looking for and you can also find out how they are responding to the queries, the feedback.
+		- Mobile environment user modeling
+			- Use a system for the mobile environment to see if the user behavior changes under different circumstances 
+		- Demographic user modeling
+			- These statics relate to education, religion, age, gender, etc. For example,  a young girl would respond to an ad differently from a 75 year old woman
+	- Search engines / social networks
+		- Google search engine uses available search history and profile data to adjust different search results
+		- Pinterest uses models to enable retargeting and mix it with personalized content
+	- How is it implemented into UX DESIGN
+		- adidas
+			- Adidas has a feature on their app for registered users called “Creator Club.” As you spend more money on Adidas.com or in-store, those dollars transfer as points to the club members. The more points, the higher someone’s level becomes, which unlocks features and restricted access to products and events. The reward comes from seeing yourself move up through the ranks and then be able to experience exclusive benefits.
+- Behavioral modeling to improve UI/UX
+	- BJ Foggs modeling behaviour. 
+		- it has 3 elements
+			- Motivation
+				- the underlying drive that motivates someone to change behaviour
+					- Sensation (physical level)
+					- Anticipation (emotional level)
+					- Belonging (social level)
+			- Ability
+				- Not competence for a particular task but it is used to convey, it is very easy for someone to do a particular task in a moment of time. in this model, he replaces ability with simplicity to show ability could be increased by making the target behavior simple
+					- Time
+					- None routine
+					- Physical effort
+					- Money
+					- Social deviance
+					- Brain cycles
+			- Triggers
+				- Everyone needs prompts or triggers to spring into action. the final piece of behavioural puzzle is the trigger. without a prompt someone can be very motivated and have the ability to perform the behaviour, but there's simply no call to action
+					- Spark
+						- Added motivation
+					- Facilitator
+						- bouncing with motivation but lacking the ability to achieve the desired behaviour
+					- Signal
+						- a clear action to help them understand what they have to do

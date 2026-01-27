@@ -1,0 +1,8 @@
+- Creational design pattern
+- separate the construction of a complex object from its representation so that the same construction process can create different representations
+- it is used to construct a complex object step by step and the final step will return the object
+- Dont forget to string
+- there needs to be 3 classes
+	- Product class (what gets created)
+	- Builder class
+	- Class that uses the builder

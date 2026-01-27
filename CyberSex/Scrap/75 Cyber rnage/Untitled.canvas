@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"86c24c411bb13a94","x":-277,"y":-17,"width":250,"height":60,"type":"text","text":""},
+		{"id":"9bcc65fcebb8c3ee","x":240,"y":-300,"width":250,"height":60,"type":"text","text":"SQL02"}
+	],
+	"edges":[]
+}

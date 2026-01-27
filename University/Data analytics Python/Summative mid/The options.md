@@ -1,0 +1,68 @@
+
+
+- Lifestyle and behaviors
+	- Examine differences in lifestyle and behavioral patterns between drug abusers and non-abusers
+		- Categorical
+			- Smoking
+			- Psychological disorders
+			- increased personal expenses
+			- decreased social interaction
+			- sleeping habits
+			- weighted stress index
+			- other numerical stuff
+- Behavioral indicators of drug abuse
+	- Focus on behavioral indicators to reveal how these behaviors correlate with drug abuse
+	- Categorical
+		- absence from work
+		- Increased personal expenses
+		- lying
+		- stealing
+		- changes in social interactions
+		- Other numerical stuff
+- Physical and psychological symptoms
+	- Study the association between drug abuse and physical and psychological symptoms to help identify common indications of drug abuse
+	- Categorical
+		- High blood pressure
+		- Weight changes
+		- skin problems
+		- dermatological problems
+		- hallucination
+		- mood swings
+		- anxiety
+		- other numerical stuff
+- Impact on daily life and relationships
+	- Analyze how drug abuse affects daily life and relationships
+		- Categorical stuff
+			- decreased social interaction
+			- difficulties completing tasks
+			- deterioration of physical appearance
+			- absence from work
+			- increased personal expenses
+			- selling house content
+			- sleeping habits
+- Mental health and emotional stability
+	- Explore differences in mental health indicators between drug abusers and non-abusers
+		- Categorical
+			- suicidal behavior
+			- difficulty controlling emotions, 
+			- psychological symptoms like anxiety, 
+			- hallucinations
+- comparative analysis of health indicators
+	- Compare health indicators between drug abusers and non-abusers
+		- categorical
+			- include high body temperature, 
+			- heart palpitations, 
+			- dermatological problems, 
+			- high blood pressure, 
+			- weight change, 
+			- skin redness, 
+			- Mydriasis,
+- Impact on Physical Appearance and Daily Functioning
+	- Examine differences in indicators of physical appearance and daily functioning between drug abusers and non-abusers
+		- Categorical
+			- deterioration of physical appearance
+			- skin conditions 
+				- skin_redness  
+				- dermatological_problems
+	- difficulty completing tasks, cognitive abilities, aggressive behavior
+	

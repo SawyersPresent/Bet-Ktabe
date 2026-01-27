@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"3b25421925acfb66","type":"text","text":"Me \n10.8.0.3","x":-520,"y":60,"width":250,"height":50},
+		{"id":"14749310ca8cf67b","type":"text","text":"HR\n10.2.10.14","x":-160,"y":-411,"width":250,"height":60},
+		{"id":"89cb7ecac9075328","type":"text","text":"MAILSRV\n10.2.10.12","x":440,"y":-411,"width":250,"height":60,"color":"1"},
+		{"id":"f10bd3228f299109","type":"text","text":"DBSRV\n10.2.10.13","x":740,"y":-411,"width":250,"height":60,"color":"1"},
+		{"id":"a0ab4ec622a6b8de","type":"text","text":"DC\n10.2.10.11","x":-460,"y":-411,"width":250,"height":60},
+		{"id":"9b94233d86a7b7a0","type":"text","text":"Jenkins\n10.8.0.4\n10.2.30.1","x":-140,"y":-160,"width":250,"height":100},
+		{"id":"055b587e3069b916","type":"text","text":"INTERN IT\n10.2.10.15","x":140,"y":-411,"width":250,"height":60,"color":"1"},
+		{"id":"1638243c2bf59335","type":"text","text":"MGMT-2 PC\n10.2.20.21","x":-410,"y":-740,"width":250,"height":70,"color":"1"},
+		{"id":"e6bcadc83c2b7478","type":"text","text":"CEO PC\n10.2.20.22","x":190,"y":-840,"width":250,"height":65,"color":"1"}
+	],
+	"edges":[
+		{"id":"74efe5f284d7e5ab","fromNode":"3b25421925acfb66","fromSide":"right","toNode":"9b94233d86a7b7a0","toSide":"left"},
+		{"id":"6845f546c6056da1","fromNode":"9b94233d86a7b7a0","fromSide":"top","toNode":"a0ab4ec622a6b8de","toSide":"bottom"},
+		{"id":"666b82e213fef009","fromNode":"9b94233d86a7b7a0","fromSide":"top","toNode":"14749310ca8cf67b","toSide":"bottom"},
+		{"id":"78b9ea91f8e02c60","fromNode":"9b94233d86a7b7a0","fromSide":"top","toNode":"055b587e3069b916","toSide":"bottom"},
+		{"id":"f90e5b90ec352d2f","fromNode":"9b94233d86a7b7a0","fromSide":"bottom","toNode":"3b25421925acfb66","toSide":"right"},
+		{"id":"eeba827e76bbe94d","fromNode":"9b94233d86a7b7a0","fromSide":"top","toNode":"89cb7ecac9075328","toSide":"bottom"},
+		{"id":"1b5fc383c43f5d8e","fromNode":"9b94233d86a7b7a0","fromSide":"top","toNode":"f10bd3228f299109","toSide":"bottom"},
+		{"id":"667a00baf684621c","fromNode":"055b587e3069b916","fromSide":"top","toNode":"1638243c2bf59335","toSide":"bottom"},
+		{"id":"41eb827af5087ff5","fromNode":"1638243c2bf59335","fromSide":"right","toNode":"e6bcadc83c2b7478","toSide":"left","label":"??? need to check"},
+		{"id":"c727b2869f44956f","fromNode":"89cb7ecac9075328","fromSide":"top","toNode":"1638243c2bf59335","toSide":"bottom"}
+	]
+}

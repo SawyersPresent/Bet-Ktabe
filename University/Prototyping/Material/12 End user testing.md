@@ -1,0 +1,40 @@
+
+
+- definition
+	- is the person who actually uses a particular product in the end
+- Why user testing
+	- The main goal of user testing is to inform the design process from the perspective of the end user
+	- Identify problems to find areas of improvement
+- end user testing methodologies
+	- usability testing
+		- watching tracking an actual user while they use your product to see if its in fact usable or not
+		- understand how real users experience
+		- the two types being
+			- Moderated
+				- Which is used during the design phase which will help find potential issues
+			- unmoderated
+				- occurs remotely without a moderator
+				- It offers quick inexpensive user testing results
+	- Focus groups
+		- A focus group is a live activity with one moderator and multiple contributors. During the session, the moderator asks this group of people about their behaviors, preferences, attitudes, and experiences on a topic or item of interest. Focus groups can be conducted in person or online.
+		- When do we use focus groups?
+			- asses user needs and feelings both before a products design and long after its release
+			- identify personal thoughts and preferences
+	- beta testing
+		- its an opportunity for real users to use a product in a production environment to uncover any bugs or issues before a general release
+	- a/b testing
+		- its a method of comparing two things, or two different versions of something, find out which one is preferred by people who are using your website / app
+		- Choose between two competing elements/designs
+		- Used when trying to detect small differences in designs
+	- surveys
+		- Surveys collect a large amount of data, but that data often lacks qualitative insights to help you understand why respondents are selecting those answers. Conducting.
+- Testing criteria
+	- Usability
+	- Complete a task
+	- Prototype isn't perfect
+	- Use realistic data
+	- wireframe save a lot of time
+	- allow users to share their thoughts
+	- heat map is useful
+	- test in all environments
+	- Take user characteristics in mind

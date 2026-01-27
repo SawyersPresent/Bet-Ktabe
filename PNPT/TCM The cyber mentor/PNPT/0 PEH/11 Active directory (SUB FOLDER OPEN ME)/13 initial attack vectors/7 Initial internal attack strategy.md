@@ -1,0 +1,26 @@
+
+- Begin day with mitm6 or responder
+	- Start with responder
+	- then do mitm6
+	- early in the morning or during lunch time
+- Run scans to generate traffic
+	- Nessus
+	- NXC
+	- Nmap
+	- dirsearch
+- If scans are taking too long, look for websites in scope (http_version)
+	- Look for everything inscope
+	- Websites, Ports, Services. ALWAYS BE MULTI-TASKING!!!
+- Look for **default credentials** on **web logins**
+	- Printers
+	- Jenkins
+	- Etc.
+- Think outside the box
+	- What can I do?
+	- Be comfortable knowing not everything is gonna work
+	- Ask them to create an account (if possible)
+- ENUMERATION IS KEY
+	- ENUM IS KING
+	- ENUM IS KING
+	- ENUM IS KING
+	- ENUM IS KING

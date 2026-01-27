@@ -1,0 +1,2 @@
+- Started with [nmap](OffSec-Notes-main/Writeups/HackTheBox/0%20Machines/Retired/Gen%201/Previse/nmap.md)
+- 

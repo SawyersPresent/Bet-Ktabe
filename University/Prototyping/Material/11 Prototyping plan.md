@@ -1,0 +1,29 @@
+
+- Planning phases
+	- Define your idea
+		- Purpose of it
+		- What will it look like
+		- how many competitors are there
+		- Is it original?
+		- Does it solve a problem of a specific niche
+	- Identify the end users
+		- Who will use your product
+		- who will interact with your product
+		- who will benefit from your product
+	- Determine the suitable methodology, right tools to prototype your idea
+		- Choose the prototyping methodology for your idea
+		- Select the most appropriate form of prototyping
+		- Choose the right tools, that you will use
+	- Define your prototypes design and build
+		- For every prototype fidelity level, think about the features and components to include
+		- Start building your prototype accordingly
+	- Plan your prototype evaluation methods
+		- Think about how you will evaluate your prototype starting from low-fidelity, mid-fidelity, high-fidelity
+		- How will you get the end users feedback how you measure their level of satisfaction
+			- Social media
+			- Online surveys
+			- User interview
+			- Focus Groups
+			- Advertising
+			- Forums
+			- Public

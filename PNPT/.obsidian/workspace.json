@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "8351e2992ee3a528",
+    "type": "split",
+    "children": [
+      {
+        "id": "49d1497209a42250",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "248d5a1ce5ceda73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCM The cyber mentor/PNPT/0 PEH/21 Find & Exploit Common Web Vulnerabilities/1 SQL injection/0x01 SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0x01 SQL"
+            }
+          },
+          {
+            "id": "5a24511a33b45655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCM The cyber mentor/PNPT/2 Windows PrivEsc/15 Escalation Path Service Permissions (Path)/6 Service Escalation - binPath.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6 Service Escalation - binPath"
+            }
+          },
+          {
+            "id": "52472b196538ac0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EXAM/EXTERNAL INFRASTRUCTURE/scan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "scan"
+            }
+          },
+          {
+            "id": "9111da4fae470f35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "passed the exam/dump.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dump"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f22db7a88eb52d21",
+    "type": "split",
+    "children": [
+      {
+        "id": "75738d52b37e87d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18c0abe8a5617218",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "13adef38a10eee77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "smb relay",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "68ffeff750d16ede",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "right": {
+    "id": "101bf170c25a7a55",
+    "type": "split",
+    "children": [
+      {
+        "id": "76b4b9afe3fad7c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6345ba50075c86d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EXAM/EXTERNAL INFRASTRUCTURE/scan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for scan"
+            }
+          },
+          {
+            "id": "3bad85720d3de91c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EXAM/EXTERNAL INFRASTRUCTURE/scan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from scan"
+            }
+          },
+          {
+            "id": "6f65d3c148685df3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a1339fe6b5cb0069",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EXAM/EXTERNAL INFRASTRUCTURE/scan.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of scan"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "13adef38a10eee77",
+  "lastOpenFiles": [
+    "TCM The cyber mentor/PNPT/0 PEH/11 Active directory (SUB FOLDER OPEN ME)/13 initial attack vectors/2 SMBRelay attacks.md",
+    "passed the exam/dump.md",
+    "passed the exam",
+    "Untitled/Pasted image 20240812235232.png",
+    "Untitled/Pasted image 20240813035218.png",
+    "TCM The cyber mentor/PNPT/0 PEH/11 Active directory (SUB FOLDER OPEN ME)/13 initial attack vectors/0 Initial attack vectors.md",
+    "TCM The cyber mentor/PNPT/0 PEH/11 Active directory (SUB FOLDER OPEN ME)/13 initial attack vectors/1 LLMNR.md",
+    "TCM The cyber mentor/PNPT/0 PEH/6 Scanning and enumeration/My notes.md",
+    "TCM The cyber mentor/PNPT/0 PEH/6 Scanning and enumeration/5 Researching potential vulnerabilities.md",
+    "TCM The cyber mentor/PNPT/0 PEH/6 Scanning and enumeration/4 Enumerating SSH.md",
+    "TCM The cyber mentor/PNPT/0 PEH/6 Scanning and enumeration/3 Enumerating SMB.md",
+    "TCM The cyber mentor/PNPT/0 PEH/6 Scanning and enumeration/2 Enumerating HTTP and HTTPS Part 1 and 2.md",
+    "TCM The cyber mentor/PNPT/0 PEH/6 Scanning and enumeration/1 Scanning with Nmap.md",
+    "TCM The cyber mentor/PNPT/0 PEH/6 Scanning and enumeration/0 Installing kioptrix First level.md",
+    "TCM The cyber mentor/PNPT/0 PEH/4 Ethical hacker methodology/Methodology.md",
+    "TCM The cyber mentor/PNPT/0 PEH/5 Information gathering/7 Information gathering with Burp.md",
+    "TCM The cyber mentor/PNPT/0 PEH/5 Information gathering/5 Subdomain hunting.md",
+    "TCM The cyber mentor/PNPT/0 PEH/5 Information gathering/4 Hunting Breached Credentials with DeHashed.md",
+    "TCM The cyber mentor/PNPT/0 PEH/5 Information gathering/3 Using breach parse.md",
+    "TCM The cyber mentor/PNPT/0 PEH/5 Information gathering/2 Discover email addresses.md",
+    "TCM The cyber mentor/PNPT/0 PEH/5 Information gathering/1 Identifying the target.md",
+    "TCM The cyber mentor/PNPT/0 PEH/5 Information gathering/0 Overview.md",
+    "TCM The cyber mentor/PNPT/0 PEH/11 Active directory (SUB FOLDER OPEN ME)/15 Post compromise attacks/6 LNK file attacks.md",
+    "EXAM/OSINT ON TPM/0.md",
+    "EXAM/NEWEST ATTEMPT/PATH/testing.md",
+    "EXAM/NEWEST ATTEMPT/PATH/list of bruteforcing.md",
+    "EXAM/EXTERNAL INFRASTRUCTURE/scan.md",
+    "TCM The cyber mentor/PNPT/2 Windows PrivEsc/12 Escalation Path Executable Files/3 Service Escalation - Executable Files.md",
+    "TCM The cyber mentor/PNPT/2 Windows PrivEsc/15 Escalation Path Service Permissions (Path)/6 Service Escalation - binPath.md",
+    "Untitled/Pasted image 20240815144115.png",
+    "Untitled/Pasted image 20240815144019.png",
+    "Untitled/Pasted image 20240815143949.png",
+    "Untitled/Pasted image 20240815143909.png",
+    "Untitled/Pasted image 20240815143857.png",
+    "Untitled/Pasted image 20240815143440.png",
+    "Untitled/Pasted image 20240815143130.png",
+    "Untitled/Pasted image 20240815143102.png",
+    "EXAM/NEWEST ATTEMPT/PATH",
+    "EXAM/NEWEST ATTEMPT",
+    "EXAM/EXTERNAL INFRASTRUCTURE",
+    "EXAM/OSINT ON TPM",
+    "EXAM",
+    "Untitled",
+    "TCM The cyber mentor/PNPT/3 OSINT/14 OSINT TOOLS",
+    "TCM The cyber mentor/PNPT/3 OSINT/13 Wireless OSINT",
+    "TCM The cyber mentor/PNPT/3 OSINT/12 Business OSINT"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"cdaf00d3bc3b5088","x":-280,"y":-160,"width":250,"height":50,"type":"text","text":"DC.ACME.CORP"},
+		{"id":"1f6b7381c990336d","x":52,"y":40,"width":250,"height":60,"type":"text","text":"wkstn"},
+		{"id":"f1a38abfec31dd43","x":-532,"y":36,"width":250,"height":60,"type":"text","text":"WEB"},
+		{"id":"62428b1655e1bbb7","x":193,"y":-405,"width":250,"height":60,"type":"text","text":"KATO.ORG"},
+		{"id":"33745ff607436eb7","x":409,"y":-596,"width":250,"height":60,"type":"text","text":"JMP"},
+		{"id":"a6c8224e15b6e228","x":9,"y":-593,"width":250,"height":60,"type":"text","text":"DB"}
+	],
+	"edges":[
+		{"id":"2413f68f8ddbfdd7","fromNode":"cdaf00d3bc3b5088","fromSide":"bottom","toNode":"1f6b7381c990336d","toSide":"top"},
+		{"id":"ff69f4593c27c540","fromNode":"cdaf00d3bc3b5088","fromSide":"bottom","toNode":"f1a38abfec31dd43","toSide":"top"},
+		{"id":"3be39ecedae3c86f","fromNode":"cdaf00d3bc3b5088","fromSide":"top","toNode":"62428b1655e1bbb7","toSide":"bottom","label":"Inbound through\nlmonk"},
+		{"id":"77d38b711c7b14e7","fromNode":"62428b1655e1bbb7","fromSide":"top","toNode":"33745ff607436eb7","toSide":"bottom"},
+		{"id":"3dea3f08aefb2d4a","fromNode":"62428b1655e1bbb7","fromSide":"top","toNode":"a6c8224e15b6e228","toSide":"bottom"}
+	]
+}

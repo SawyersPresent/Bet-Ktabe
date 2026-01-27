@@ -1,0 +1,119 @@
+
+- an end user is a person or other entity that consumes or makes use of my product
+
+- End User vs customer
+	- Customer buys the product
+	- the end user actually uses the product
+- Segmentation
+	- All individuals are unique in their needs, preferences, personal characteristics and behaviors
+	- End users’ segmentation is the process of dividing an end users into distinct groups of individuals that have similar characteristics. This process makes it easier to target specific groups of customers with tailored products, services, and marketing strategies.
+	- End user’s segmentation is the ultimate solution to this problem. It helps you recognize these differences and serve a wider range of people more effectively by enabling you to tailor your marketing approach according to the varying needs of all segments
+- Why do segmentation
+	- It is a powerful tactic
+	- Segmentation helps companies make interactions with their customers that are more personalized
+- Methods and most effective ways to do segmentation
+	- Demographic
+		- Gender
+		- age
+		- profession
+		- academic level
+		- income level
+	- Geographic
+		- countries, region, state, city
+	- Lifestyle
+		- interests
+		- activities
+	- Behavioral
+		- browsing habits
+		- navigation patterns
+		- usage data
+	- Business customer
+		- business size or nature of business
+	- Market segmentation
+	- 
+- Persona canvas
+	- used to give a customer segment a face and a name to make it easier to be in their shoes
+		- elements of a canvas
+			- name and role
+			- needs
+			- fears and headaches
+			- hopes and opportunities
+			- positive and negative trends
+		- How to create
+			- Gather user data
+			- condense user data to get relevant data
+			- Form persona groups by organizing the characteristics 
+			- Make personas realistic by providing a detailed description of personas background motivations etc.	
+		- Why user personas?
+			- A deep understanding of a target audience is fundamental to creating exceptional products
+			- User personas help a product team find the answer to one of their most important questions, “Who are we designing for?” By understanding the expectations, concerns, and motivations of target users, it’s possible to design a product that will satisfy users’ needs and therefore be successful.
+		- Advantages
+			- Provides the company with wide understanding of who their users are
+			- Deep understanding of customer behavior and needs
+			- More effective, focused conversations and business meetings
+			- Clearer and better decision making –focused on user needs and goals
+		- Steps to finding  a user persona
+			- Collect information about the users
+			- Identify behavioral patterns of the users
+			- Create a persona to prioritize the users
+			- Find scenarios of interactions and create user personas UX documentation
+			- Share your findings and obtain acceptance from the team
+- Value proposition's canvas
+	- formed around two building blocks
+		- Customer profile
+		- Companies value proposition
+	- Elements
+		- Jobs to be done
+		- Pains
+		- Gains
+		- Pain relievers
+		- Gain creators
+		- Product and services
+- Customer profile canvas
+	- customer gains
+		- Gains describe the outcomes and benefits your customers want
+	- customer pain
+		- describe anything that annoys your customers before, during and after trying to get a job done or simply prevents them from getting a done
+	- customer jobs
+		- A customer job could be the tasks they are trying to perform and complete
+- Value map
+	- Products and services
+		- Simply a list of what you offer
+	- Gain creators
+		- describe how your products and services and create customer gains
+		- They outline how you intend to produce outcomes and benefits that your customer expects, desires, our would be surprised by, including functional utility, social gains, positive emotions and cost savings
+		- As with pain relievers, gain creators don’t need to address every gain identified in the customer profile
+	- Pain relievers
+		- Describe how exactly your prodcutrs and services alleviate specific customer pains, they outline how you intend to eliminate or reduce some of the things that annoy the customers
+- Check if value map and customer profile canvas match
+- Customer journey map
+	- What is it?
+	- Why use it?
+	- Eelements
+		- Customer persona
+		- Phases aka stages
+			- Awareness
+			- Research
+			- Consderation
+			- Purchase
+			- Support
+		- Touchpoints
+			- Touchpoints are every interaction the customer has with your brand throughout the buying journey
+		- Customer thoughts actions and emotions
+		- Opportunities
+- Advantages of customer journey map
+	- In short, customer journey maps help stakeholders from a variety of business units to understand customers better — and that drives success across the business.
+- Product Canvas
+	- The canvas is an important first step in deciding who potential users may be, the problem to be solved, basic product functionality, advanced functionalities worth exploring, competitive advantage, and customers’ potential gain from the product
+	- Elements
+		- Name
+		- Goal
+		- Metrics
+			- This is the measure by which you’ll know whether your goal has been met; e.g. a set number of new users.
+		- Target group
+		- Big picture
+		- Product details
+	- Advantages of a product canvas
+		- Facilitates product discovery, backlog management, and release planning.
+		- The product canvas is a highly collaborative way of bringing the development team and stakeholders together to jointly agree on all key aspects of a product.
+		- It aligns well with Agile approaches to software development and supports a UXcentered focus.

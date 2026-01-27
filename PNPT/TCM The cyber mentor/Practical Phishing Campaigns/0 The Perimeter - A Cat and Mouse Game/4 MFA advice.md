@@ -1,0 +1,19 @@
+
+- if a client allows text based MFA you can attempt to VISH the code from the user
+- While MFA is strong it is NOT impossible to penetrate
+	- EvilGinx will help with that soon.
+- Sim Swapping attacks and other vectors can lead to MFA codes being intercepted
+- MFA fatigue attacks are becoming more popular
+- Some key trategies
+	- Strats
+		- Full name, Fiancees name etc
+			- Use personal information you already have about them that might be needed
+		- Phone call
+			- Create a timeline and give them a phone call, for example.
+			- "Hey my name is X in the IT department with my colleague `Insert IT workers name` and we were suspicious of activity going on in your account there should be a MFA coming to your account anytime so if you could supply me with that so we can make sure nothing is compromised I would appreciate it"
+		- Sim Swapping
+			- TO BE WORKED ON!!!! <--------
+		- MFA Fatigue
+			- Just spam this LOL
+			- make sure to use a residential proxy in that same area to not seem suspicious 
+		- IMPORTANT NOTE, MAKE SURE EVERYTHINGS IN LINE, IN TIME. CONTEXT IS KING

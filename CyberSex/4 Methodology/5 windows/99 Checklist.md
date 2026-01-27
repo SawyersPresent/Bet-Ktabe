@@ -1,0 +1,26 @@
+
+
+- Enumeration
+	- tree /a /f
+	- whoami /all
+	- Checking the directory we landed in
+	- check the ports that are open
+	- enumerate services
+- Priv Esc
+	- Service DLL hijack
+	- Weak Permissions
+	- Scheduled tasks
+	- Credential theft
+	- Password Re-use
+	- DPAPI Abuse
+	- User Privileges
+		- SeImpersonate & SeAssignPrimaryToken
+		- SeDebugPrivilege
+		- SeTakeOwnerPrivilege
+		- SeManageVolumePrivilege
+	- Group privileges
+		- DNS Admins
+		- Hyper-V admins
+		- Back Up Operators
+		- Print Operators
+		- Server Operators

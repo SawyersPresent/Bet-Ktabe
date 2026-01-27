@@ -1,0 +1,3 @@
+# Misc
+
+Backsearch: `ctrl+r`

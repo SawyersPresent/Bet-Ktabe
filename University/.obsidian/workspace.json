@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "7765c02622128bcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b84caebb768ca9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be3550a75da21c2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data analytics Python/Summative mid/Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a2bdd0137844a37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced/Matieral/Videos/Behavioural/AP_Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "071b9c8e26057ecf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6253ada30ebe818f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95ca230301b8a94a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10e7bb409f762082",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41e22c958ff1a219",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5110321044922
+  },
+  "right": {
+    "id": "74c7e0a0c814f100",
+    "type": "split",
+    "children": [
+      {
+        "id": "c36d81833cd23509",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e82aa16d540ce8cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Advanced/Matieral/Videos/Behavioural/AP_Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a62c13a61be8b201",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Advanced/Matieral/Videos/Behavioural/AP_Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46e820caf2ceab0a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97e89f7d9cd62fcc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Advanced/Matieral/Videos/Behavioural/AP_Template.md"
+              }
+            }
+          },
+          {
+            "id": "339fab358e062d32",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2a2bdd0137844a37",
+  "lastOpenFiles": [
+    "Advanced/Matieral/Videos/Behavioural/AP_STRATEGY.md",
+    "Advanced/Matieral/Videos/Behavioural/AP_ITERATOR.md",
+    "Pasted image 20240625072008.png",
+    "Advanced/Matieral/Videos/Behavioural/AP_Template.md",
+    "Pasted image 20240625071513.png",
+    "Pasted image 20240625071209.png",
+    "Advanced/Matieral/Videos/Behavioural/AP_CHAIN OF RESPONSIBILITY.md",
+    "Advanced/Matieral/Videos/Creational/5_AP_CLONE_SINGLETON.md",
+    "Advanced/Matieral/Videos/2_AP_UML_LAB.md",
+    "Advanced/Matieral/Videos/Creational/AP_FACTORY.md",
+    "Advanced/Matieral/Videos/Behavioural",
+    "Advanced/Matieral/Videos/Structural",
+    "Advanced/Matieral/Videos/Creational/Untitled",
+    "Advanced/Matieral/Videos/Creational",
+    "Advanced/Matieral/Videos/Structural/9_AP_BRIDGE.md",
+    "Pasted image 20240625065017.png",
+    "Advanced/Matieral/Videos/Structural/8_Facade_Proxy.md",
+    "Pasted image 20240625064336.png",
+    "images/Pasted image 20240625064322.png",
+    "Advanced/Matieral/Videos/Structural/7_AP_ADAPTER.md",
+    "Advanced/Matieral/Videos/Creational/6_AP_Builder.md",
+    "Advanced/Matieral/Videos/1_AP_CLASS_DIAGRAM.md",
+    "Advanced/Matieral/PowerPoints/Introduction to object oriented programming.md",
+    "Advanced/My code/University manager.md",
+    "Advanced/Matieral/YoutubePlaylist",
+    "Advanced/Matieral/Videos",
+    "Advanced/Matieral/PowerPoints",
+    "Advanced/My code/Student Counceling manager.md",
+    "Advanced/My code/Department manager.md",
+    "Prototyping/Material/8 Prototyping tools.md",
+    "Prototyping/Material/2 Forms of prototyping.md",
+    "Prototyping/Material/3 Different methodologies.md",
+    "Prototyping/Material/12 End user testing.md",
+    "Prototyping/Material/11 Prototyping plan.md",
+    "Prototyping/Material/10 Principles of prototyping.md",
+    "Prototyping/Material/7 Behavioral modelling techniques.md",
+    "Prototyping/Material/6 end users.md",
+    "Prototyping/Material/5 RAD and prototyping.md",
+    "images/Pasted image 20240621120815.png",
+    "images",
+    "images/Pasted image 20240621120329.png",
+    "Prototyping/Material",
+    "Prototyping",
+    "images/Pasted image 20240506211443.png",
+    "images/Pasted image 20240506211201.png"
+  ]
+}

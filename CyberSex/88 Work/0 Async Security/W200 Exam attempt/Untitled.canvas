@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"674b11e72230163c","type":"text","text":"   SRV01","x":-500,"y":-140,"width":145,"height":60},
+		{"id":"38400b29913c3903","type":"text","text":"DEV01","x":-660,"y":-140,"width":120,"height":60,"color":"3"},
+		{"id":"1f76ab5026df2e41","type":"text","text":"   SRV02\n   dumped logon passwords\n   dumped dpapi\n","x":-600,"y":-460,"width":505,"height":220,"color":"1"},
+		{"id":"1c88952f8f4cdca9","type":"text","text":"DC01","x":-280,"y":-140,"width":145,"height":60}
+	],
+	"edges":[]
+}

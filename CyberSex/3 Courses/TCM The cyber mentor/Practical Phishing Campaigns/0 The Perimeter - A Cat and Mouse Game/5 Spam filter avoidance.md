@@ -1,0 +1,15 @@
+
+- When possible do not use words directly from the vendor emails
+	- Microsoft account alerts
+	- Google account alerts
+- Do not copy Microsoft email format or their website directly
+	- Will trigger spam fitlers
+	- they have protection to prevent you from copying!
+- If you like HTM editing this can be a great task for you
+	- Avoid urgent words if you can, use spell check and tones of AI tools to make sure grammar and everything is correct
+- Try to customize each phish to the client including their dialect and tendencies
+	- Check where the organization is, does the region affect it?
+		- What dialect do they speak? can you find it using videos? OSINT? etc?
+		- What are their tendencies? what do they eat? where do they eat? what do they play?
+- Your compromise is only as good as your OSINT and passive info gathering
+	- Gather info on their common IT Tools and the emails sent by those tools
