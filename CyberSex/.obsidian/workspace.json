@@ -65,14 +65,14 @@
             "id": "d0beb284d0d33e85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "4 Methodology/6 active directory/4 Trust Attacks/Cross Domain/1 Unconstrained Delegation.md",
-                "mode": "source",
-                "source": false
+                "aFile": "CyberSex/.obsidian/community-plugins.json",
+                "bFile": "CyberSex/.obsidian/community-plugins.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1 Unconstrained Delegation"
+              "icon": "diff",
+              "title": "Diff: community-plugins.json  (Working Tree)"
             }
           },
           {
@@ -241,14 +241,23 @@
               "icon": "clock",
               "title": "Pomodoro timer"
             }
+          },
+          {
+            "id": "ad77f5513da40640",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,10 +269,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38925c48869ea953",
+  "active": "d0beb284d0d33e85",
   "lastOpenFiles": [
     "4 Methodology/6 active directory/4 Trust Attacks/Cross Domain/2 Abusing ADCS.md",
     "4 Methodology/6 active directory/4 Trust Attacks/Cross Domain/1 Unconstrained Delegation.md",
