@@ -1,19 +1,18 @@
+## General course / lab philosophy (important, keep repeating this)
 
-
-lab 1:
-- labs should not and **never** be delegated to another website or service.
-- and if it is there needs to be knowledge that is on par with the technical skills that are being taught which is not present 
-- there should be a VM which is provided by JOSA to students for them to have a safe container to execute malware and analyze it.
-- everything taught in the lab can be taught in the course directly.
-	- Example: Create a JOSA vm which contains all of the malware analysis tool they would need to complete the labs, create a folder which contains benign malware which does not achieve anything and just launches calc.exe, this can be achieved using msfvenom.
-	- then have each of the malware represent a lab. for example lab1.exe is for the first name for the first virus and attach a youtube walkthrough
-Lab 2:
-- 
-
-
-
-
-
-
+- Labs should **not** and honestly **must not** be delegated to random third-party websites  
+- Especially not:
+	  - “Upload APK to get report” sites  
+	  - automated sandboxes that hide all internals  
+- If ANY external service is used:
+	  - students must already have **equal or higher technical understanding**
+	  - otherwise they are just clicking buttons
+- Malware RE is about:
+	  - understanding *how* things work
+	  - not memorizing steps
+- Students need:
+	  - full local control
+	  - the ability to break things
+	  - the ability to mess up emulators and recover via snapshots
 
 
