@@ -1,5 +1,7 @@
 
 
+
+
 ```
 ludus:
   - vm_name: "{{ range_id }}-elastic"
@@ -45,3 +47,4 @@ defaults:
   timezone: Asia/Jerusalem # The timezone for all VMs, use the TZ identifier format from https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
   enable_dynamic_wallpaper: true # Enable dynamic wallpaper (red/green) for all Windows VMs in the range
 ```
+

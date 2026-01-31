@@ -11,12 +11,14 @@
             "id": "e20f26048428356f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "99 images/3 Abusing ADCS-20260127201405162.webp"
+                "file": "88 Work/JOSA/MADU/Malware android.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "3 Abusing ADCS-20260127201405162"
+              "icon": "lucide-file",
+              "title": "Malware android"
             }
           }
         ]
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 images/3 Abusing ADCS-20260127201405162.webp",
+                "file": "88 Work/JOSA/MADU/Malware android.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3 Abusing ADCS-20260127201405162"
+              "title": "Outline of Malware android"
             }
           },
           {
@@ -190,51 +192,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38925c48869ea953",
+  "active": "e20f26048428356f",
   "lastOpenFiles": [
+    "88 Work/JOSA/AI Google/AI Google fund.md",
     "88 Work/JOSA/MADU/Malware android.md",
     "88 Work/JOSA/MADU/MADU review.md",
+    "4 Methodology/80 Dev/Ludus/Configs/Working child parent.md",
+    "88 Work/JOSA/AI Google",
+    "4 Methodology/3 File transfer/File transfers.md",
+    "3 Courses/HTB/CPTS/8 Shells & payloads/1 shell basics/0 anatomy of a shell.md",
+    "4 Methodology/80 Dev/Ludus/Configs/ADCS and elastic.md",
+    "3 Courses/HTB/CPTS/8 Shells & payloads/1 shell basics",
+    "3 Courses/HTB/CPTS/8 Shells & payloads/0 introduction",
+    "4 Methodology/80 Dev/Ludus/Configs/elastic ADCS Child.md",
+    "4 Methodology/6 active directory/4 Trust Attacks/Intra Forest/0 Theory.md",
+    "4 Methodology/6 active directory/4 Trust Attacks/Intra Forest/4 GPO On Site attack.md",
+    "4 Methodology/6 active directory/4 Trust Attacks/Intra Forest/3 Abusing ADCS.md",
+    "youtube ideas/streaming ideas.md",
+    "ardian.md",
+    "youtube ideas/Vieo ideas.md",
+    "99 images/3 Abusing ADCS-20260127201405162.webp",
     "3 Courses/HTB/CAPE/12 Trust Attacks/1 Intra Forest Attacks/1 ADCS.md",
     "3 Courses/HTB/CAPE/12 Trust Attacks/1 Intra Forest Attacks/0 Unconstrained Delegation.md",
     "3 Courses/HTB/CAPE/11 ADCS/0 Introduction/1 Introduction to ADCS Misconfigurations.md",
     "3 Courses/HTB/CAPE/11 ADCS/0 Introduction/2 ADCS Enumeration.md",
-    "4 Methodology/6 active directory/4 Trust Attacks/Intra Forest/3 Abusing ADCS.md",
     "7 Boxes/HTB/Machines/Fluffy/Fluffy.md",
     "99 images/3 Abusing ADCS-20260127232541306.webp",
     "4 Methodology/6 active directory/4 Trust Attacks/Intra Forest/2 Unconstrained Delegation.md",
     "4 Methodology/6 active directory/4 Trust Attacks/Intra Forest/1 Enumeration.md",
     "4 Methodology/80 Dev/0 Ideas.md",
-    "99 images/3 Abusing ADCS-20260127201405162.webp",
-    "4 Methodology/6 active directory/4 Trust Attacks/Intra Forest/0 Theory.md",
     "4 Methodology/6 active directory/4 Trust Attacks/Cross Forest Attacks/0 Theory.md",
     "4 Methodology/6 active directory/4 Trust Attacks/Cross Forest Attacks/Cheatsheet.md",
     "4 Methodology/6 active directory/4 Trust Attacks/Cross Forest Attacks/1 Enumeration.md",
     "4 Methodology/6 active directory/4 Trust Attacks/Cross Forest Attacks/Untitled.md",
     "3 Courses/HTB/CAPE/12 Trust Attacks/1 Intra Forest Attacks",
     "3 Courses/HTB/CAPE/12 Trust Attacks/0 Introductrion",
-    "4 Methodology/3 File transfer/File transfers.md",
-    "3 Courses/HTB/CPTS/25 Linux/1 Information Gathering/1 Linux Services & Internal Enumeration.md",
-    "4 Methodology/12 Malware/Boaz/Getting close.md",
-    "6 Pro labs/Offshore/10.10.110.123.md",
-    "4 Methodology/6 active directory/2 Kerberos attacks/0 Delegations/1 KUD (Unconstrained).md",
-    "4 Methodology/6 active directory/2 Kerberos attacks/0 Delegations/0 Delegations.md",
     "99 images/1 Unconstrained Delegation-20260127033516728.webp",
     "4 Methodology/6 active directory/4 Trust Attacks/Cross Domain/0 Enumeration",
-    "4 Methodology/12 Malware/Concepts/Callback Gadgets.md",
-    "4 Methodology/12 Malware/Rust codes/0 Rust.md",
     "99 images/0 Theory-20260126041647736.webp",
     "99 images/10.10.110.123-20260125035411240.webp",
     "99 images/Theory-20251225190422205.webp",
-    "3 Courses/HTB/CPTS/7 File transfers/0 Introduction/2 Linux File transfer.md",
-    "4 Methodology/4 linux/0 Shells & Misc.md",
     "6 Pro labs/Offshore/Untitled.canvas",
     "6 Pro labs/Offshore",
     "6 Pro labs",
     "3 Courses/HTB/CPTS/22 Command Injection/1 Exploitation",
     "3 Courses/HTB/CPTS/22 Command Injection/0 Intro",
-    "3 Courses/HTB/CPTS/22 Command Injection",
-    "88 Work/JOSA/MADU",
-    "88 Work/wo-soom/Work",
     "3 Courses/ZPS/CRTO/Untitled.canvas",
     "Scrap/75 Cyber rnage/1 range/network.canvas",
     "5 Adventures/Unity/Images/Blog v2 C++-20251217231713966.webp",
