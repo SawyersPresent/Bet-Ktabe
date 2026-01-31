@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "88 Work/JOSA/AI Google/AI Google fund.md",
+                "file": "88 Work/JOSA/C2 Workshop Ludus/VPN PACKS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Google fund"
+              "title": "VPN PACKS"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "88 Work/JOSA/AI Google/AI Google fund.md",
+                "file": "88 Work/JOSA/C2 Workshop Ludus/VPN PACKS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI Google fund"
+              "title": "Outline of VPN PACKS"
             }
           },
           {
@@ -194,9 +194,12 @@
   },
   "active": "e20f26048428356f",
   "lastOpenFiles": [
+    "88 Work/JOSA/C2 Workshop Ludus/ludus config.md",
+    "88 Work/JOSA/C2 Workshop Ludus/inventory.md",
+    "88 Work/JOSA/C2 Workshop Ludus/Ansible.md",
+    "88 Work/JOSA/AI Google/AI Google fund.md",
     "88 Work/JOSA/MADU/MADU review.md",
     "88 Work/JOSA/MADU/Malware android.md",
-    "88 Work/JOSA/AI Google/AI Google fund.md",
     "4 Methodology/80 Dev/Ludus/Configs/Working child parent.md",
     "88 Work/JOSA/AI Google",
     "4 Methodology/3 File transfer/File transfers.md",
@@ -222,9 +225,6 @@
     "4 Methodology/6 active directory/4 Trust Attacks/Intra Forest/1 Enumeration.md",
     "4 Methodology/80 Dev/0 Ideas.md",
     "4 Methodology/6 active directory/4 Trust Attacks/Cross Forest Attacks/0 Theory.md",
-    "4 Methodology/6 active directory/4 Trust Attacks/Cross Forest Attacks/Cheatsheet.md",
-    "4 Methodology/6 active directory/4 Trust Attacks/Cross Forest Attacks/1 Enumeration.md",
-    "4 Methodology/6 active directory/4 Trust Attacks/Cross Forest Attacks/Untitled.md",
     "3 Courses/HTB/CAPE/12 Trust Attacks/1 Intra Forest Attacks",
     "3 Courses/HTB/CAPE/12 Trust Attacks/0 Introductrion",
     "99 images/1 Unconstrained Delegation-20260127033516728.webp",
